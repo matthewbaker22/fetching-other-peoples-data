@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    border: 1px solid red;
+    height: 900px;
+}
+
+li {
+    margin-right: 50px;
+    padding-top: 5%;
+}
+
+.foodList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+}
